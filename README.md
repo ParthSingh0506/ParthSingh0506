@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Computer-Vision**
 
-- 📝 I regularly write articles on Medium:- [https://parthsingh562k.medium.com/](https://parthsingh562k.medium.com/)& https://www.analyticsvidhya.com/blog/2021/07/understanding-face-recognition-using-lbph-algorithm/
+- 📝 I regularly write articles on Medium:- [https://parthsingh562k.medium.com/](https://parthsingh562k.medium.com/)
+
+- 📝 I regularly write articles on Analytics Vidhaya:- https://www.analyticsvidhya.com/blog/2021/07/understanding-face-recognition-using-lbph-algorithm/
 
 - 💬 Ask me about **ML,DL,Data-Visualisation,C,C++,Git,AWS**
 
