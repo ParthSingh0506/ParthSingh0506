@@ -21,6 +21,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 AWS Sage Maker Fundamentals: Beginners Guide:-https://parthsingh562k.medium.com/aws-sage-maker-fundamentals-beginners-guide-2b796702798d
+Understanding Face Recognition using LBPH algorithm :-https://www.analyticsvidhya.com/blog/2021/07/understanding-face-recognition-using-lbph-algorithm/
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
