@@ -24,7 +24,7 @@ AWS Sage Maker Fundamentals: Beginners Guide:-https://parthsingh562k.medium.com/
 
 Understanding Face Recognition using LBPH algorithm :-https://www.analyticsvidhya.com/blog/2021/07/understanding-face-recognition-using-lbph-algorithm/
 <!-- BLOG-POST-LIST:END -->
-![alt text](<iframe src="https://giphy.com/embed/CVtNe84hhYF9u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/artificial-intelligence-singularity-CVtNe84hhYF9u">via GIPHY</a></p>
+<a href="https://giphy.com/gifs/artificial-intelligence-singularity-CVtNe84hhYF9u">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
