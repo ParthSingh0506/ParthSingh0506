@@ -27,7 +27,7 @@ Understanding Face Recognition using LBPH algorithm :-https://www.analyticsvidhy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/parth singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/parth-singh-7866511a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth singh" height="30" width="40" /></a>
 <a href="https://kaggle.com/parth_singh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parth_singh5" height="30" width="40" /></a>
 <a href="https://medium.com/@parthsingh562k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@parthsingh562k" height="30" width="40" /></a>
 </p>
