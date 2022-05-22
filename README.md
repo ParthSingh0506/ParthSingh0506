@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on Medium:- [https://parthsingh562k.medium.com/](https://parthsingh562k.medium.com/)
 
-- 📝 I regularly write articles on Analytics Vidhaya:- https://www.analyticsvidhya.com/blog/2021/07/understanding-face-recognition-using-lbph-algorithm/
+- 📝 I regularly write articles on Analytics Vidhaya:- https://www.analyticsvidhya.com/blog/author/parth897/
 
 - 💬 Ask me about **ML,DL,Data-Visualisation,C,C++,Git,AWS**
 
