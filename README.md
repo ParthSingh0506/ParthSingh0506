@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Singh</h1>
-<h3 align="center">MLOPS/DEVOPS anthusiast from India</h3>
+<h3 align="center">Aspiring MLOPS/DEVOPS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsingh0506&label=Profile%20views&color=0e75b6&style=flat" alt="parthsingh0506" /> </p>
 
