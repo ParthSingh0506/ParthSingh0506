@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ML,DL,Data-Visualisation,C,C++,Git,AWS**
 
-- 📫 How to reach me : **kartikrajsingh05@gmail.com**
+- 📫 How to reach me : **parthwork0506@gmail.com**
 
 
 ### Blogs posts
