@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on Analytics Vidhaya:- https://www.analyticsvidhya.com/blog/author/parth897/
 
-- 💬 Ask me about **ML,DL,Data-Visualisation,C,C++,Git,AWS**
+- 💬 Ask me about **ML,DL,Comp Vision, Docker, K8s, Git, Azure, AWS**
 
 - 📫 How to reach me : **parthsingh56k@gmail.com**
 
