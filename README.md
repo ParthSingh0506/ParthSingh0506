@@ -11,7 +11,7 @@
 - 📝 I regularly write technical blogs on:
   - [Medium](https://parthsingh562k.medium.com/)
   - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/parth897/)
-- 💬 Ask me about: `ML` • `DL` • `Computer Vision` • `Docker` • `K8s` • `Git` • `Azure` • `AWS`
+- 💬 Ask me about: `AgenticAI` • `GenAI` • `DL` • `Docker` • `K8s` • `Git` • `Azure` • `AWS`
 - 📫 Reach me at: **parthsingh56k@gmail.com**
 
 ---
