@@ -7,7 +7,7 @@
 
 ---
 
-- 🧠 Working at the intersection of **Machine Learning**, **Deep Learning**, and **Computer Vision**
+- 🧠 Working at the intersection of **GenAI**, **AgenticAI**, and **Deep Learning**
 - 📝 I regularly write technical blogs on:
   - [Medium](https://parthsingh562k.medium.com/)
   - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/parth897/)
