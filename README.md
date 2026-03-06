@@ -18,9 +18,9 @@
 
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- 📌 [Stop Fine-Tuning LLMs. Start Fine-Tuning Agents](https://medium.com/@parthsingh562k/stop-fine-tuning-llms-start-fine-tuning-agents-f7408563e256)
+- 📌 [Guide to Semantic Kernel](https://www.analyticsvidhya.com/blog/2025/04/semantic-kernel/)
 - 📌 [Creating an ML Web App and Deploying it on AWS](https://www.analyticsvidhya.com/blog/2022/05/creating-an-ml-web-app-and-deploying-it-on-aws/#h2_8)
-- 📌 [AWS SageMaker Fundamentals: Beginner's Guide](https://parthsingh562k.medium.com/aws-sage-maker-fundamentals-beginners-guide-2b796702798d)
-- 📌 [Understanding Face Recognition using LBPH Algorithm](https://www.analyticsvidhya.com/blog/2021/07/understanding-face-recognition-using-lbph-algorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
