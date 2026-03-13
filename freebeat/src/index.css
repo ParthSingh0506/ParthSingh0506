@@ -1,0 +1,126 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: #0f0f1a;
+  color: #e2e8f0;
+  overflow: hidden;
+}
+
+#root {
+  width: 100%;
+  max-width: 100%;
+  text-align: left;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #1a1a2e;
+}
+::-webkit-scrollbar-thumb {
+  background: #a855f7;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9333ea;
+}
+
+/* Range input styles */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+  background: #374151;
+  height: 4px;
+  border-radius: 2px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  margin-top: -6px;
+  background-color: #a855f7;
+  height: 16px;
+  width: 16px;
+  border-radius: 50%;
+  transition: background-color 0.2s;
+}
+
+input[type="range"]::-webkit-slider-thumb:hover {
+  background-color: #c084fc;
+}
+
+/* Spinning animation for album art */
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.spin-slow {
+  animation: spin-slow 8s linear infinite;
+}
+
+.spin-slow-paused {
+  animation: spin-slow 8s linear infinite;
+  animation-play-state: paused;
+}
+
+/* Wave animation for playing indicator */
+@keyframes wave {
+  0%, 100% { transform: scaleY(0.4); }
+  50% { transform: scaleY(1); }
+}
+
+.wave-bar {
+  animation: wave 1s ease-in-out infinite;
+  display: inline-block;
+  width: 3px;
+  height: 14px;
+  background: #a855f7;
+  border-radius: 2px;
+  margin: 0 1px;
+  transform-origin: bottom;
+}
+
+.wave-bar:nth-child(2) { animation-delay: 0.15s; }
+.wave-bar:nth-child(3) { animation-delay: 0.3s; }
+.wave-bar:nth-child(4) { animation-delay: 0.45s; }
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, #a855f7, #ec4899);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Pulse glow for playing track */
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 10px rgba(168, 85, 247, 0.3); }
+  50% { box-shadow: 0 0 25px rgba(168, 85, 247, 0.7); }
+}
+
+.pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+/* Track card hover */
+.track-card {
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.track-card:hover {
+  transform: translateX(4px);
+}
